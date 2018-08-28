@@ -1,1 +1,1 @@
-This is your Chrome extension which replaces a word or phrase with a different word or phrase. 
+Silly Chrome Ext to replace multiple flavors of Trump with Individual-1 
